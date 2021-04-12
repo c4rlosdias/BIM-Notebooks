@@ -25,4 +25,4 @@ Para instalar todas as depedencias use:
     > !pip install -r requirements.txt
 
 **Nota:** As consultas seguem a sintaxe definida no módulo select do ifcopenshell. Para mais informações, veja:
-* [https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples](https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples)  
+* [https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples#IFC_Query_Syntax](https://wiki.osarch.org/index.php?title=IfcOpenShell_code_examples#IFC_Query_Syntax)  
